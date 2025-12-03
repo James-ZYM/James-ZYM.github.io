@@ -1,19 +1,12 @@
 {
   "basics": {
     "name": "James Y. Zhu",
-    "label": "PhD in AI",
+    "label": "Final-year Ph.D. in IIP(AI), HKUST",
     "email": "yzhucd@connect.ust.hk",
     "url": "https://james-zym.github.io/",
-    "summary": "PhD student from IIP(AI), HKUST",
-    "location": {
-      "address": "HKUST (GZ)",
-      "postalCode": "511453",
-      "city": "Guangzhou",
-      "countryCode": "China",
-      "region": "Guangdong"
-    }
+    "location": "HKUST (GZ), Guangzhou, Guangdong, China"
   },
-  "work": [
+  "professional Experience": [
     {
       "name": "University of Science and Technology of China",
       "position": "Research assistant",
@@ -30,18 +23,6 @@
       "startDate": "2019-07-01",
       "endDate": "2019-09-01",
       "summary": "Be responsible to develop a force-based interactive text processing interface for moble devices, basing on a HCI reserach, supervised by Prof. Pan Hui.",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
       "highlights": []
     }
   ],
@@ -171,7 +152,7 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [
+  "research interests": [
     {
       "name": "Natrual Language Processing",
       "keywords": [

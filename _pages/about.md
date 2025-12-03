@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### Hi, thanks for stopping by👋! My name is James Yiming Zhu.
+#### **Hi, thanks for stopping by👋! My name is James Yiming Zhu.**
 
 I am a **final-year Ph.D.** at Hong Kong University of Science and Technology (HKUST) researching in the [MC2 Lab](https://mc2-lab-hkust.netlify.app/), supervised by [**Prof. Pan Hui**](https://panhui.people.ust.hk/) and [**Prof. James Tin-Yau KWOK**](https://www.cse.ust.hk/~jamesk/). Meanwhile, I have been co-working with [**Prof. Gareth Tyson**](https://www.eecs.qmul.ac.uk/~tysong/) and [**Prof. Lik-Hang Lee**](https://www.lhlee.com/). Previously, I completed my undergraduate degree in Computer Science and Technology at University of Science and Technology of China (USTC) and served as a one-year research assistant supervised by [**Prof. Cheng Li**](https://mr-cheng-li.github.io/).
 
