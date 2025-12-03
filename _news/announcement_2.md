@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Two papers** accepted by `**ACM WWW 2024**`! 🎉🎉🎉.
+**Two papers** accepted by **ACM WWW 2024**! 🎉🎉🎉.
