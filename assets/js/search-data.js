@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "Publications of James Y. Zhu in reversed chronological order. * denotes equal contribution.",
+          description: "Publications of James Y. Zhu in chronological order. | * denotes equal contribution.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
