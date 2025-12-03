@@ -61,68 +61,84 @@
     {
       "name": "Characterizing GenAI-driven Social Network: The Chirper.ai Case",
       "author": "Yiming Zhu, Yupeng He, Ehsan-UI Haq, Gareth Tyson, Pan Hui",
-      "publisher": "Under review"
+      "publisher": "Under review",
+      "url": "https://arxiv.org/abs/2504.10286"
     },
     {
       "name": "The Invisible Hand: Exploring Generative AI's Impact on Online Freelancer Markets",
       "author": "Yiming Zhu, Gareth Tyson, Pan Hui",
-      "publisher": "Under review"
+      "publisher": "Under review",
+      "url": "https://arxiv.org/abs/2512.02509"
     },
     {
       "name": "Exploring the Capability of ChatGPT to Reproduce Human Labels for Social Computing Tasks",
       "author": "Yiming Zhu, Peixian Zhang, Ehsan-Ul Haq, Pan Hui, Gareth Tyson",
       "publisher": "International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
-      "releaseYear": "2025"
+      "releaseYear": "2025",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-78548-1_2"
     },
     {
       "name": "Exploring the Use of Abusive Generative AI Models on Civitai",
       "author": "Yiluo Wei*, Yiming Zhu*, Pan Hui, Gareth Tyson",
-      "comment": "Co-first author",
       "publisher": "Proceedings of the 32nd ACM International Conference on Multimedia (MM)",
-      "releaseYear": "2024"
+      "releaseYear": "2024",
+      "url": "https://dl.acm.org/doi/10.1145/3664647.3681052"
     },
     {
       "name": "APT-Pipe: A Prompt-Tuning Tool for Social Data Annotation using ChatGPT",
       "author": "Yiming Zhu*, Zhizhuo Yin*, Gareth Tyson, Ehsan-Ul Haq, Lik-Hang Lee, Pan Hui",
-      "comment": "Co-first author",
       "publisher": "Proceedings of the ACM Web Conference (WWW)",
-      "releaseYear": "2024"
+      "releaseYear": "2024",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3589334.3645642"
+    },
+    {
+      "name": "History in making: Political campaigns in the era of artificial intelligence-generated content",
+      "author": "Ehsan-Ul Haq, Yiming Zhu, Pan Hui, Gareth Tyson",
+      "publisher": "Companion Proceedings of the ACM Web Conference 2024 (WWW Companion)",
+      "releaseYear": "2024",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3589335.3652000"
     },
     {
       "name": "A Study of Partisan News Sharing in the Russian invasion of Ukraine",
       "author": "Yiming Zhu, Ehsan-Ul Haq, Gareth Tyson, Lik-Hang Lee, Yuyang Wang, Pan Hui",
       "publisher": "International AAAI Conference on Web and Social Media (ICWSM)",
-      "releaseYear": "2024"
+      "releaseYear": "2024",
+      "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/31430"
     },
     {
       "name": "Understanding Characteristics of Catalyst Users in the WallStreetBets Community",
       "author": "Ehsan-Ul Haq, Yiming Zhu, Zijun Lin, Haodi Weng, Gareth Tyson, Lik-Hang Lee, Reza Hadi Mogavi, Tristan Braud, Pan Hui",
       "publisher": "International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
-      "releaseYear": "2023"
+      "releaseYear": "2023",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3625007.3627595"
     },
     {
       "name": "Echo chambers within the russo-ukrainian war: The role of bipartisan users",
       "author": "Peixian Zhang, Ehsan Ul Haq, Yiming Zhu, Pan Hui, Gareth Tyson",
       "publisher": "International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
-      "releaseYear": "2023"
+      "releaseYear": "2023",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3625007.3627475"
     },
     {
       "name": "Lessons learned from migrating complex stateful applications onto serverless platforms",
       "author": "Zewen Jin, Yiming Zhu, Jiaan Zhu, Dongbo Yu, Cheng Li, Ruichuan Chen, Istemi Ekin Akkus, Yinlong Xu",
       "publisher": "Proceedings of the 12th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys)",
-      "releaseYear": "2021"
+      "releaseYear": "2021",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3476886.3477510"
     },
     {
       "name": "Press-n-paste: Copy-and-paste operations with pressure-sensitive caret navigation for miniaturized surface in mobile augmented reality",
       "author": "Lik Hang Lee, Yiming Zhu, Yui-Pan Yau, Pan Hui, Susanna Pirttikangas",
       "publisher": "Proceedings of the ACM on Human-Computer Interaction, Volume 5, Issue EICS",
-      "releaseYear": "2021"
+      "releaseYear": "2021",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3457146"
     },
     {
       "name": "One-thumb text acquisition on force-assisted miniature interfaces for mobile headsets",
       "author": "Lik Hang Lee, Yiming Zhu, YAU Yui-Pan, Tristan Braud, SU Xiang, Pan Hui",
       "publisher": "IEEE International Conference on Pervasive Computing and Communications (PerCom)",
-      "releaseYear": "2020"
+      "releaseYear": "2020",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9127378"
     }
   ],
   "skills": [
