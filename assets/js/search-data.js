@@ -29,13 +29,13 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-one-paper-gets-accepted-by-icwsm-2024",
-          title: 'One paper gets accepted by **ICWSM 2024**! 🎉🎉🎉:',
+          title: 'One paper gets accepted by ICWSM 2024! 🎉🎉🎉:',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-by-acm-www-2024",
-          title: 'Two papers accepted by **ACM WWW 2024**! 🎉🎉🎉.',
+          title: 'Two papers accepted by ACM WWW 2024! 🎉🎉🎉.',
           description: "",
           section: "News",},{id: "news-one-paper-gets-accepted-by-acm-mm-2024",
-          title: 'One paper gets accepted by **ACM MM 2024**! 🎉🎉🎉:',
+          title: 'One paper gets accepted by ACM MM 2024! 🎉🎉🎉:',
           description: "",
           section: "News",},{
         id: 'social-cv',
