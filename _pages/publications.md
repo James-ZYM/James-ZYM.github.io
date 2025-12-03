@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications of James Y. Zhu in reversed chronological order. * denotes equal contribution.
+description: Publications of James Y. Zhu in chronological order. | * denotes equal contribution.
 nav: true
 nav_order: 2
 ---
