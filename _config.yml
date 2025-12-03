@@ -2,21 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "**James Y. Zhu**"
+title: blank
 first_name: James
-middle_name: Yiming
+middle_name: Y.
 last_name: Zhu
 contact_note: >
-  Feel free to contact me via my [*email*](yzhucd@connect.ust.hk) and find my work on my [*google scholar*](https://scholar.google.com/citations?user=DnJLfkUAAAAJ&hl=en).
+  Feel free to contact me via my email and find my work on my google scholar.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  This is James Zhu's personal website.
+  This is James Y. Zhu's personal website.
 footer_text: >
   # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ☕ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://James-ZYM.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
