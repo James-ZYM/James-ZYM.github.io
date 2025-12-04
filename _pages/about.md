@@ -38,5 +38,5 @@ applications.
 
 **🔥🔥Ongoing research🔥🔥:**
 - Authoring a systematic literture review of attacking and defensing techniques for GenAI-powered online harms.
-- Leading a project constructing a benchmark for evaluating exsisting LLM emsemble methods in social data annotation tasks.
+- Constructing a benchmark for evaluating exsisting LLM ensemble methods in social data annotation tasks.
 - Co-working with Prof. Gareth Tyson to develop a document ranking framework driven by multiple personalized LLM agents.
