@@ -33,7 +33,7 @@ I am a **final-year Ph.D.** at Hong Kong University of Science and Technology (H
 My research interests lie in **social computing**, **data science**, and **natural language processing**. Standing at the
 intersection of the big data and AI era, I mainly focus on investigating how emerging generative AI (GenAI) technologies are
 reshaping the Internet ecosystem and online social networks. Additionally, I am passionate about addressing practical
-challenges related to GenAI misuse, helping platform developers enhance moderation and mitigate harmful AI
+challenges related to GenAI misuse, helping platform developers to better moderation and mitigate harmful AI
 applications.
 
 **🔥🔥Ongoing research🔥🔥:**
