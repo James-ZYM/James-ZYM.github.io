@@ -6,24 +6,27 @@
     "url": "https://james-zym.github.io/",
     "location": "HKUST (GZ), Guangzhou, Guangdong, China"
   },
-  "professional experience": [
+  "work": [
+    {
+      "name": "Hong Kong University of Science and Technology (Guangzhou)",
+      "position": "Research assistant (Part time)",
+      "startDate": "2025-12-11",
+      "endDate": "2026-03-31",
+      "summary": "Attend as an assistant co-working with Dr. Ehsan-UI Haq, advised by Prof. Gareth Tyson.",
+    },
     {
       "name": "University of Science and Technology of China",
       "position": "Research assistant",
-      "url": "",
       "startDate": "2020-07-01",
       "endDate": "2021-08-31",
       "summary": "Attend as an assistant to conduct a reserach on serverless system, supervised by Prof. Chen Li.",
-      "highlights": []
     },
     {
       "name": "Hong Kong University of Science and Technology",
       "position": "Research intern",
-      "url": "",
       "startDate": "2019-07-01",
       "endDate": "2019-09-01",
       "summary": "Be responsible to develop a force-based interactive text processing interface for moble devices, basing on a HCI reserach, supervised by Prof. Pan Hui.",
-      "highlights": []
     }
   ],
   "education": [
@@ -141,6 +144,36 @@
       "url": "https://ieeexplore.ieee.org/abstract/document/9127378"
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Proceedings of the ACM Web Conference (WWW) - Web4good Track",
+      "position": "PC Member",
+      "startDate": "2025"
+    },
+    {
+      "organization": "Proceedings of the ACM Web Conference (WWW)",
+      "position": "Reviewer",
+      "startDate": "2023",
+      "endDate": "2025"
+    },
+    {
+      "organization": "ACM Transactions on Social Computing (TSC)",
+      "position": "Reviewer",
+      "startDate": "2025"
+    },
+    {
+      "organization": "International AAAI Conference on Web and Social Media (ICWSM)",
+      "position": "Reviewer",
+      "startDate": "2023",
+      "endDate": "2025"
+    },
+    {
+      "organization": "PACM for Conference on Computer Supported Cooperative Work (CSCW)",
+      "position": "Reviewer",
+      "startDate": "2023",
+      "endDate": "2024"
+    }
+  ],
   "skills": [
     {
       "name": "Python",
@@ -168,7 +201,7 @@
       "fluency": "Fluent"
     }
   ],
-  "research interests": [
+  "interests": [
     {
       "name": "Natrual Language Processing",
       "keywords": [
