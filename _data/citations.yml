@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-10'
+  last_updated: '2025-12-31'
 papers:
   DnJLfkUAAAAJ:9yKSN-GCB0IC:
     citations: 21
@@ -26,15 +26,15 @@ papers:
     title: Exploring the Capability of ChatGPT to Reproduce Human Labels for Social Computing Tasks (Extended Version)
     year: '2024'
   DnJLfkUAAAAJ:WF5omc3nYNoC:
-    citations: 2
+    citations: 3
     title: 'Characterizing LLM-driven Social Network: The Chirper. ai Case'
     year: '2025'
   DnJLfkUAAAAJ:Y0pCki6q_DkC:
-    citations: 11
+    citations: 14
     title: 'APT-Pipe: A Prompt-Tuning Tool for Social Data Annotation using ChatGPT'
     year: '2024'
   DnJLfkUAAAAJ:YsMSGLbcyi4C:
-    citations: 17
+    citations: 18
     title: Exploring the Use of Abusive Generative AI Models on Civitai
     year: '2024'
   DnJLfkUAAAAJ:d1gkVwhDpl0C:
@@ -46,7 +46,7 @@ papers:
     title: Exploring the Capability of ChatGPT to Reproduce Human Labels for Social Computing Tasks
     year: '2024'
   DnJLfkUAAAAJ:qjMakFHDy7sC:
-    citations: 176
+    citations: 179
     title: Can chatgpt reproduce human-generated labels? a study of social computing tasks
     year: '2023'
   DnJLfkUAAAAJ:u-x6o8ySG0sC:
@@ -58,6 +58,6 @@ papers:
     title: Lessons learned from migrating complex stateful applications onto serverless platforms
     year: '2021'
   DnJLfkUAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 4
     title: 'Echo chambers within the russo-ukrainian war: The role of bipartisan users'
     year: '2023'
