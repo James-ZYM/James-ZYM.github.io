@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-28'
 papers:
   DnJLfkUAAAAJ:0EnyYjriUFMC:
-    citations: 12
+    citations: 13
     title: Can ChatGPT reproduce human-generated labels? A study of social computing tasks, arXiv
     year: '2023'
   DnJLfkUAAAAJ:9yKSN-GCB0IC:
@@ -14,7 +14,7 @@ papers:
     title: A Study of Partisan News Sharing in the Russian invasion of Ukraine
     year: '2023'
   DnJLfkUAAAAJ:LkGwnXOMwfcC:
-    citations: 11
+    citations: 13
     title: 'History in making: Political campaigns in the era of artificial intelligence-generated content'
     year: '2024'
   DnJLfkUAAAAJ:Tyk-4Ss8FVUC:
@@ -30,7 +30,7 @@ papers:
     title: Exploring the Capability of ChatGPT to Reproduce Human Labels for Social Computing Tasks (Extended Version)
     year: '2024'
   DnJLfkUAAAAJ:WF5omc3nYNoC:
-    citations: 4
+    citations: 5
     title: 'Characterizing LLM-driven Social Network: The Chirper. ai Case'
     year: '2025'
   DnJLfkUAAAAJ:Y0pCki6q_DkC:
@@ -38,7 +38,7 @@ papers:
     title: 'APT-Pipe: A Prompt-Tuning Tool for Social Data Annotation using ChatGPT'
     year: '2024'
   DnJLfkUAAAAJ:YsMSGLbcyi4C:
-    citations: 18
+    citations: 20
     title: Exploring the Use of Abusive Generative AI Models on Civitai
     year: '2024'
   DnJLfkUAAAAJ:d1gkVwhDpl0C:
@@ -46,19 +46,19 @@ papers:
     title: 'Press-n-paste: Copy-and-paste operations with pressure-sensitive caret navigation for miniaturized surface in mobile augmented reality'
     year: '2021'
   DnJLfkUAAAAJ:eQOLeE2rZwMC:
-    citations: 6
+    citations: 7
     title: Exploring the Capability of ChatGPT to Reproduce Human Labels for Social Computing Tasks
     year: '2024'
   DnJLfkUAAAAJ:qjMakFHDy7sC:
-    citations: 183
+    citations: 182
     title: Can chatgpt reproduce human-generated labels? a study of social computing tasks
     year: '2023'
   DnJLfkUAAAAJ:u-x6o8ySG0sC:
-    citations: 28
+    citations: 29
     title: One-thumb text acquisition on force-assisted miniature interfaces for mobile headsets
     year: '2020'
   DnJLfkUAAAAJ:u5HHmVD_uO8C:
-    citations: 23
+    citations: 24
     title: Lessons learned from migrating complex stateful applications onto serverless platforms
     year: '2021'
   DnJLfkUAAAAJ:zYLM7Y9cAGgC:
