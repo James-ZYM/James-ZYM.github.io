@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-09'
 papers:
   DnJLfkUAAAAJ:0EnyYjriUFMC:
     citations: 15
@@ -38,11 +38,11 @@ papers:
     title: 'Characterizing LLM-driven social network: The chirper. ai Case'
     year: '2025'
   DnJLfkUAAAAJ:Y0pCki6q_DkC:
-    citations: 14
+    citations: 15
     title: 'APT-Pipe: A Prompt-Tuning Tool for Social Data Annotation using ChatGPT'
     year: '2024'
   DnJLfkUAAAAJ:YsMSGLbcyi4C:
-    citations: 22
+    citations: 24
     title: Exploring the Use of Abusive Generative AI Models on Civitai
     year: '2024'
   DnJLfkUAAAAJ:d1gkVwhDpl0C:
@@ -54,7 +54,7 @@ papers:
     title: Exploring the capability of chatgpt to reproduce human labels for social computing tasks
     year: '2024'
   DnJLfkUAAAAJ:qjMakFHDy7sC:
-    citations: 212
+    citations: 215
     title: Can chatgpt reproduce human-generated labels? a study of social computing tasks
     year: '2023'
   DnJLfkUAAAAJ:u-x6o8ySG0sC:
@@ -66,6 +66,6 @@ papers:
     title: Lessons learned from migrating complex stateful applications onto serverless platforms
     year: '2021'
   DnJLfkUAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: 'Echo chambers within the russo-ukrainian war: The role of bipartisan users'
     year: '2023'
