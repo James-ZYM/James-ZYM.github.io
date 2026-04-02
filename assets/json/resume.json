@@ -51,6 +51,12 @@
   ],
   "publications": [
     {
+      "name": "Characterizing GenAI-driven Social Network: The Chirper.ai Case",
+      "author": "Yiming Zhu, Yupeng He, Ehsan-UI Haq, Gareth Tyson, Pan Hui",
+      "publisher": "The ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW)",
+      "url": "https://arxiv.org/abs/2504.10286"
+    },
+    {
       "name": "The Rise of Synthetic Grassroots: Characterizing AI-Generated Political Discourse on Reddit",
       "author": "Yiming Zhu, Gareth Tyson, Yupeng He, Pan Hui",
       "publisher": "Under review"
@@ -61,12 +67,7 @@
       "comment": "Co-first author",
       "publisher": "Under review"
     },
-    {
-      "name": "Characterizing GenAI-driven Social Network: The Chirper.ai Case",
-      "author": "Yiming Zhu, Yupeng He, Ehsan-UI Haq, Gareth Tyson, Pan Hui",
-      "publisher": "Under review",
-      "url": "https://arxiv.org/abs/2504.10286"
-    },
+
     {
       "name": "The Invisible Hand: Exploring Generative AI's Impact on Online Freelancer Markets",
       "author": "Yiming Zhu, Gareth Tyson, Pan Hui",

@@ -35,6 +35,5 @@ My research interests lie in **social computing**, **data science**, and **natur
 **I am current on the academic job market. I'm glad to discuss any opportunities☕**
 
 **🔥🔥Ongoing research🔥🔥:**
+- We are working on a network topology of agent-driven social network, Moltbook.
 - Authoring a systematic literture review of attacking and defensing techniques for GenAI-powered online harms.
-- Constructing a benchmark for evaluating exsisting LLM ensemble methods in social data annotation tasks.
-- Co-working with Prof. Gareth Tyson to develop a document ranking framework driven by multiple personalized LLM agents.
