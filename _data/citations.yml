@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-10'
 papers:
   DnJLfkUAAAAJ:0EnyYjriUFMC:
     citations: 15
@@ -18,7 +18,7 @@ papers:
     title: A Study of Partisan News Sharing in the Russian invasion of Ukraine
     year: '2023'
   DnJLfkUAAAAJ:LkGwnXOMwfcC:
-    citations: 15
+    citations: 14
     title: 'History in making: Political campaigns in the era of artificial intelligence-generated content'
     year: '2024'
   DnJLfkUAAAAJ:Tyk-4Ss8FVUC:
@@ -54,7 +54,7 @@ papers:
     title: Exploring the capability of chatgpt to reproduce human labels for social computing tasks
     year: '2024'
   DnJLfkUAAAAJ:qjMakFHDy7sC:
-    citations: 217
+    citations: 218
     title: Can chatgpt reproduce human-generated labels? a study of social computing tasks
     year: '2023'
   DnJLfkUAAAAJ:u-x6o8ySG0sC:
