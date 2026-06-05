@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-05'
 papers:
   DnJLfkUAAAAJ:0EnyYjriUFMC:
     citations: 17
     title: Can ChatGPT reproduce human-generated labels? A study of social computing tasks. arXiv
     year: '2023'
   DnJLfkUAAAAJ:4DMP91E08xMC:
-    citations: 4
+    citations: 5
     title: A comparative analysis of social network topology in reddit and moltbook
     year: '2026'
   DnJLfkUAAAAJ:9yKSN-GCB0IC:
@@ -34,7 +34,7 @@ papers:
     title: Exploring the Capability of ChatGPT to Reproduce Human Labels for Social Computing Tasks (Extended Version)
     year: '2024'
   DnJLfkUAAAAJ:WF5omc3nYNoC:
-    citations: 15
+    citations: 16
     title: 'Characterizing LLM-driven social network: The chirper. ai Case'
     year: '2026'
   DnJLfkUAAAAJ:Y0pCki6q_DkC:
@@ -50,11 +50,11 @@ papers:
     title: 'Press-n-paste: Copy-and-paste operations with pressure-sensitive caret navigation for miniaturized surface in mobile augmented reality'
     year: '2021'
   DnJLfkUAAAAJ:eQOLeE2rZwMC:
-    citations: 7
+    citations: 8
     title: Exploring the capability of chatgpt to reproduce human labels for social computing tasks
     year: '2024'
   DnJLfkUAAAAJ:qjMakFHDy7sC:
-    citations: 231
+    citations: 233
     title: Can chatgpt reproduce human-generated labels? a study of social computing tasks
     year: '2023'
   DnJLfkUAAAAJ:u-x6o8ySG0sC:
