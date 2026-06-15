@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-15'
 papers:
   DnJLfkUAAAAJ:0EnyYjriUFMC:
     citations: 17
@@ -38,7 +38,7 @@ papers:
     title: 'Characterizing LLM-driven social network: The chirper. ai Case'
     year: '2026'
   DnJLfkUAAAAJ:Y0pCki6q_DkC:
-    citations: 16
+    citations: 19
     title: 'APT-Pipe: A Prompt-Tuning Tool for Social Data Annotation using ChatGPT'
     year: '2024'
   DnJLfkUAAAAJ:YsMSGLbcyi4C:
@@ -50,7 +50,7 @@ papers:
     title: 'Press-n-paste: Copy-and-paste operations with pressure-sensitive caret navigation for miniaturized surface in mobile augmented reality'
     year: '2021'
   DnJLfkUAAAAJ:eQOLeE2rZwMC:
-    citations: 8
+    citations: 9
     title: Exploring the capability of chatgpt to reproduce human labels for social computing tasks
     year: '2024'
   DnJLfkUAAAAJ:qjMakFHDy7sC:
