@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-10'
 papers:
   DnJLfkUAAAAJ:4DMP91E08xMC:
     citations: 5
@@ -14,7 +14,7 @@ papers:
     title: A Study of Partisan News Sharing in the Russian invasion of Ukraine
     year: '2023'
   DnJLfkUAAAAJ:LkGwnXOMwfcC:
-    citations: 18
+    citations: 19
     title: 'History in making: Political campaigns in the era of artificial intelligence-generated content'
     year: '2024'
   DnJLfkUAAAAJ:Tyk-4Ss8FVUC:
@@ -54,6 +54,6 @@ papers:
     title: Lessons learned from migrating complex stateful applications onto serverless platforms
     year: '2021'
   DnJLfkUAAAAJ:zYLM7Y9cAGgC:
-    citations: 6
+    citations: 7
     title: 'Echo chambers within the russo-ukrainian war: The role of bipartisan users'
     year: '2023'
