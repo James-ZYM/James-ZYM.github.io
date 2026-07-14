@@ -40,8 +40,11 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-serve-as-a-pc-member-of-the-acm-web-conference-2026-web4good-track",
           title: 'I will serve as a PC member of the ACM Web Conference 2026...',
           description: "",
-          section: "News",},{id: "news-one-paper-gets-conditionally-accepted-by-cscw-2026",
-          title: 'One paper gets conditionally accepted by CSCW 2026! 🎉🎉🎉.',
+          section: "News",},{id: "news-one-paper-gets-accepted-by-cscw-2026",
+          title: 'One paper gets accepted by CSCW 2026! 🎉🎉🎉.',
+          description: "",
+          section: "News",},{id: "news-two-papers-get-accepted-by-acm-mm-2026",
+          title: 'Two papers get accepted by ACM MM 2026! 🎉🎉🎉.',
           description: "",
           section: "News",},{
         id: 'social-cv',
