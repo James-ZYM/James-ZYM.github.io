@@ -1,12 +1,8 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-07-13'
 papers:
-  DnJLfkUAAAAJ:0EnyYjriUFMC:
-    citations: 15
-    title: Can ChatGPT reproduce human-generated labels? A study of social computing tasks. arXiv
-    year: '2023'
   DnJLfkUAAAAJ:4DMP91E08xMC:
-    citations: 2
+    citations: 5
     title: A comparative analysis of social network topology in reddit and moltbook
     year: '2026'
   DnJLfkUAAAAJ:9yKSN-GCB0IC:
@@ -14,11 +10,11 @@ papers:
     title: A reddit dataset for the russo-ukrainian conflict in 2022
     year: '2022'
   DnJLfkUAAAAJ:IjCSPb-OGe4C:
-    citations: 5
+    citations: 7
     title: A Study of Partisan News Sharing in the Russian invasion of Ukraine
     year: '2023'
   DnJLfkUAAAAJ:LkGwnXOMwfcC:
-    citations: 15
+    citations: 19
     title: 'History in making: Political campaigns in the era of artificial intelligence-generated content'
     year: '2024'
   DnJLfkUAAAAJ:Tyk-4Ss8FVUC:
@@ -29,43 +25,35 @@ papers:
     citations: 0
     title: 'The Invisible Hand: Characterizing Generative AI Adoption and its Effects on An Online Freelancing Market'
     year: '2025'
-  DnJLfkUAAAAJ:W7OEmFMy1HYC:
-    citations: 2
-    title: Exploring the Capability of ChatGPT to Reproduce Human Labels for Social Computing Tasks (Extended Version)
-    year: '2024'
   DnJLfkUAAAAJ:WF5omc3nYNoC:
-    citations: 11
+    citations: 16
     title: 'Characterizing LLM-driven social network: The chirper. ai Case'
-    year: '2025'
+    year: '2026'
   DnJLfkUAAAAJ:Y0pCki6q_DkC:
-    citations: 15
+    citations: 19
     title: 'APT-Pipe: A Prompt-Tuning Tool for Social Data Annotation using ChatGPT'
     year: '2024'
   DnJLfkUAAAAJ:YsMSGLbcyi4C:
-    citations: 24
+    citations: 29
     title: Exploring the Use of Abusive Generative AI Models on Civitai
     year: '2024'
   DnJLfkUAAAAJ:d1gkVwhDpl0C:
-    citations: 5
+    citations: 6
     title: 'Press-n-paste: Copy-and-paste operations with pressure-sensitive caret navigation for miniaturized surface in mobile augmented reality'
     year: '2021'
-  DnJLfkUAAAAJ:eQOLeE2rZwMC:
-    citations: 8
-    title: Exploring the capability of chatgpt to reproduce human labels for social computing tasks
-    year: '2024'
   DnJLfkUAAAAJ:qjMakFHDy7sC:
-    citations: 217
+    citations: 256
     title: Can chatgpt reproduce human-generated labels? a study of social computing tasks
     year: '2023'
   DnJLfkUAAAAJ:u-x6o8ySG0sC:
-    citations: 28
+    citations: 30
     title: One-thumb text acquisition on force-assisted miniature interfaces for mobile headsets
     year: '2020'
   DnJLfkUAAAAJ:u5HHmVD_uO8C:
-    citations: 25
+    citations: 26
     title: Lessons learned from migrating complex stateful applications onto serverless platforms
     year: '2021'
   DnJLfkUAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 7
     title: 'Echo chambers within the russo-ukrainian war: The role of bipartisan users'
     year: '2023'
