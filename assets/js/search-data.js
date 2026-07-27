@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-get-accepted-by-acm-mm-2026",
           title: 'Two papers get accepted by ACM MM 2026! 🎉🎉🎉.',
           description: "",
+          section: "News",},{id: "news-excited-to-share-that-i-m-selected-to-receive-the-tsc-best-reviewer-award",
+          title: '🎉 Excited to share that I’m selected to receive the TSC Best Reviewer...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
