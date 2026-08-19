@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-19'
 papers:
   DnJLfkUAAAAJ:4DMP91E08xMC:
-    citations: 5
+    citations: 6
     title: A comparative analysis of social network topology in reddit and moltbook
     year: '2026'
   DnJLfkUAAAAJ:9yKSN-GCB0IC:
-    citations: 24
+    citations: 22
     title: A reddit dataset for the russo-ukrainian conflict in 2022
     year: '2022'
   DnJLfkUAAAAJ:IjCSPb-OGe4C:
@@ -14,9 +14,13 @@ papers:
     title: A Study of Partisan News Sharing in the Russian invasion of Ukraine
     year: '2023'
   DnJLfkUAAAAJ:LkGwnXOMwfcC:
-    citations: 19
+    citations: 20
     title: 'History in making: Political campaigns in the era of artificial intelligence-generated content'
     year: '2024'
+  DnJLfkUAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: 'Toward Site-Aware MR Art Exhibitions: A SLAM-Based Deployment Pipeline for Spatial Coherence and Exhibition Experience'
+    year: '2026'
   DnJLfkUAAAAJ:Tyk-4Ss8FVUC:
     citations: 2
     title: Understanding Characteristics of Catalyst Users in the WallStreetBets Community
@@ -26,15 +30,15 @@ papers:
     title: 'The Invisible Hand: Characterizing Generative AI Adoption and its Effects on An Online Freelancing Market'
     year: '2025'
   DnJLfkUAAAAJ:WF5omc3nYNoC:
-    citations: 16
+    citations: 17
     title: 'Characterizing LLM-driven social network: The chirper. ai Case'
     year: '2026'
   DnJLfkUAAAAJ:Y0pCki6q_DkC:
-    citations: 19
+    citations: 21
     title: 'APT-Pipe: A Prompt-Tuning Tool for Social Data Annotation using ChatGPT'
     year: '2024'
   DnJLfkUAAAAJ:YsMSGLbcyi4C:
-    citations: 29
+    citations: 32
     title: Exploring the Use of Abusive Generative AI Models on Civitai
     year: '2024'
   DnJLfkUAAAAJ:d1gkVwhDpl0C:
@@ -42,7 +46,7 @@ papers:
     title: 'Press-n-paste: Copy-and-paste operations with pressure-sensitive caret navigation for miniaturized surface in mobile augmented reality'
     year: '2021'
   DnJLfkUAAAAJ:qjMakFHDy7sC:
-    citations: 256
+    citations: 259
     title: Can chatgpt reproduce human-generated labels? a study of social computing tasks
     year: '2023'
   DnJLfkUAAAAJ:u-x6o8ySG0sC:
