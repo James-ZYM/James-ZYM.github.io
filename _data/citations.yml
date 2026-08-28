@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-28'
 papers:
   DnJLfkUAAAAJ:4DMP91E08xMC:
     citations: 6
@@ -46,7 +46,7 @@ papers:
     title: 'Press-n-paste: Copy-and-paste operations with pressure-sensitive caret navigation for miniaturized surface in mobile augmented reality'
     year: '2021'
   DnJLfkUAAAAJ:qjMakFHDy7sC:
-    citations: 259
+    citations: 261
     title: Can chatgpt reproduce human-generated labels? a study of social computing tasks
     year: '2023'
   DnJLfkUAAAAJ:u-x6o8ySG0sC:
@@ -54,7 +54,7 @@ papers:
     title: One-thumb text acquisition on force-assisted miniature interfaces for mobile headsets
     year: '2020'
   DnJLfkUAAAAJ:u5HHmVD_uO8C:
-    citations: 26
+    citations: 27
     title: Lessons learned from migrating complex stateful applications onto serverless platforms
     year: '2021'
   DnJLfkUAAAAJ:zYLM7Y9cAGgC:
